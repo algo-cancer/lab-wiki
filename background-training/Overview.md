@@ -1,0 +1,22 @@
+Its expected that you are familiar **all** of the following skills/tools. **If any of these are new to you, or you’ve only had light exposure in the past, now is the time to brush up** by reading the relevant chapters in [Bioinformatics Data Skills](https://drive.google.com/file/d/1rNSQil1CxVK9hW2-TzDf5De3xyhpY9SE/view?usp=sharing). 
+
+- bash command line
+    - File manipulation
+    - grep
+    - sed
+    - cut
+    - find
+    - less
+    - piping and redirecting
+- tmux
+- git
+    - adding, commiting
+    - branching, merging, rebasing/squashing
+    - github: push, pull, fetch
+- types of sequence information
+    - fasta, fai index files
+    - fastq
+    - bam/sam
+    - bed files
+- mapping sequencing data with BWA
+- sam/bam manipulation with samtools and pysam
