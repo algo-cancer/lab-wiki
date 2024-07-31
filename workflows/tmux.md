@@ -13,6 +13,8 @@ if [ -z ${TMUX_IS_LOADED+x} ]; then
 fi 
 ```
 
+Tmux cheat sheet: [https://tmuxcheatsheet.com](https://tmuxcheatsheet.com)
+
 ## Creating a new Tmux session
 
 To create a new Tmux session, use the following command:
