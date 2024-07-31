@@ -10,7 +10,7 @@ Welcome to the Tumor Evolution and Genomics Section Wiki! This repository is a c
 
 - **[`code-guidelines-and-best-practices/`](code-guidelines-and-best-practices/README.md)**: Our playbook for writing clean, maintainable code. Find our coding standards, best practices, and guidelines here. Perfect for ensuring your code is up to the mark. 💻
 
-- **[`github-users`](github-users)**: A quick reference to GitHub usernames of our team members to help you stay connected and collaborate efficiently. 👥
+- **[`github-users`](github-users.txt)**: A quick reference to GitHub usernames of our team members to help you stay connected and collaborate efficiently. 👥
 
 ## Getting Started 🚀
 
