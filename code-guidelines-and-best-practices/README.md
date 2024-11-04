@@ -232,47 +232,6 @@ Git Flow is our primary branching strategy. This creates a clean main that users
    - Test thoroughly after resolving conflicts
    - Document complex conflict resolutions in commit messages
 
-### Pull Request Guidelines
-1. **Creating PRs**
-   - Use descriptive titles
-   - Fill out PR template completely
-   - Link related issues
-   - Add appropriate labels
-   - Request relevant reviewers
-
-2. **PR Description Template**
-   ```markdown
-   ## Changes
-   - Detailed list of changes
-
-   ## Testing
-   - Test cases covered
-   - How to test
-
-   ## Screenshots
-   (if applicable)
-
-   ## Checklist
-   - [ ] Tests added/updated
-   - [ ] Documentation updated
-   - [ ] Code follows style guidelines
-   - [ ] All checks passing
-   ```
-
-3. **Review Process**
-   - Respond to feedback promptly
-   - Make requested changes in new commits
-   - Squash commits before merging
-   - Use "Squash and merge" for clean history
-
-### GitHub Actions and CI/CD
-- Set up automated tests
-- Configure linting checks
-- Implement automatic version bumping
-- Create deployment workflows
-- Add security scanning
-
-
 ## Testing
 
 WIP
